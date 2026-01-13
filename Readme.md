@@ -228,14 +228,16 @@ SELECT * FROM car_event_logs;
 
 This project was developed as a collaborative academic project. My individual contributions include:
 
--Designed and implemented secure encryption pipelines using AES for protecting event data
--Built and tested Kafka producer–consumer pipelines for secure real-time event transmission
--Integrated PostgreSQL logging for structured storage of decrypted event data
--Performed Man-in-the-Middle (MITM) attack simulations to evaluate system vulnerabilities
--Worked on improving data confidentiality, integrity, and secure communication flow
--Contributed to project documentation and system design understanding  
+- Designed and implemented **secure encryption pipelines using AES** for protecting event data  
+- Built and tested **Kafka producer–consumer pipelines** for secure real-time event transmission  
+- Integrated **PostgreSQL logging** for structured storage of decrypted event data  
+- Performed **Man-in-the-Middle (MITM) attack simulations** to evaluate system vulnerabilities  
+- Worked on improving **data confidentiality, integrity, and secure communication flow**  
+- Contributed to **project documentation and system design understanding**
 
-Through this project, I gained strong hands-on experience in cybersecurity, distributed systems, secure software design, and real-time data pipelines.
+Through this project, I gained strong hands-on experience in **cybersecurity concepts, distributed systems, secure software design, and real-time data pipelines**.
+
+
 
 
 
